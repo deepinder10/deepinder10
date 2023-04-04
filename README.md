@@ -1,10 +1,9 @@
 ### Hi there 👋 I am Deepinder
 
-I am a Fullstack Developer with special interests in React/NodeJS and reading about scalable system designs.
+I am a Senior Full Stack Engineer with special interests in React/NodeJS and reading about scalable system designs.
 
 - 🌐 My Website: deepinder.me
-- 🔭 I’m currently working on ReactJS/Rails
-- 🌱 I’m currently learning Queuing systems like RabbitMQ, AWS, System Design
+- 🔭 I’m currently working on NodeJS and MongoDB
 - 👯 I’m looking to collaborate on Chat systems
 - 💬 Ask me about anything related to chat systems.
-- 📫 How to reach me: sdeepinder80@gmail.com
+- 📫 How to reach me: sdeepinder8@gmail.com
